@@ -1,4 +1,4 @@
-"This was created during my time as a student at Code Chrysalis."
+This was created during my time as a student at Code Chrysalis.
 
 ## Name
 COVID-19 TRACKER
