@@ -6,7 +6,9 @@ COVID-19 TRACKER
 A web app that provides detailed information on the current state of the global 
 virus Covid-19.
 
-![](covidtrackerApp.gif)
+
+![covidtrackerApp](https://user-images.githubusercontent.com/65219445/89969563-ad0e8500-dc91-11ea-8a54-b27f887fdc3f.gif)
+
 
 
 ### Installation
