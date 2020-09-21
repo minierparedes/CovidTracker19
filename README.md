@@ -4,7 +4,7 @@ This was created during my time as a student at Code Chrysalis.
 COVID-19 TRACKER
 
 ## DEMO
-[covidtrackerApp] https://hardcore-meninsky-aebb95.netlify.app
+![covidtrackerApp] (https://hardcore-meninsky-aebb95.netlify.app)
 
 
 ### Description
