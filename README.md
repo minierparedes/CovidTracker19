@@ -3,6 +3,9 @@ This was created during my time as a student at Code Chrysalis.
 ## Name
 COVID-19 TRACKER
 
+## DEMO
+[covidtrackerApp] https://hardcore-meninsky-aebb95.netlify.app
+
 
 ### Description
 A web app that provides detailed information on the current state of the global 
