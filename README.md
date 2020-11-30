@@ -1,9 +1,11 @@
 
 
 ## [COVID TRACKER 19](https://hardcore-meninsky-aebb95.netlify.app) &emsp; &nbsp;
+<p float="left">
 <img src="https://img.shields.io/badge/deployment-passing-green">
 <img src="https://img.shields.io/badge/PRs-welcomed-green">
-
+<img src="https://img.shields.io/github/commit-activity/w/minierparedes/cc13-Covid19Tracker">
+</p>
 <br>
 
 ## Description
@@ -62,13 +64,13 @@ The web app is responsive and designed and developed with a mobile first approac
 </p>
 
 ## Feedback
-Feel free to send us feedback on Twitter . [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/minierparedes) or file an issue. Feature requests are always welcome. If you wish to contribute.
+Feel free to send us feedback on [twitter](https://twitter.com/minierparedes)  or file an issue. Feature requests are always welcome. If you wish to contribute.
 
 ## Built with
-
+<p float="left">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> 
-
+</p>
   * **React.js** - A JavaScript library for building user interfaces. **Declarative** with views and state management. **Component-based** Build encapsulated components that manage their own state, then compose them to make complex UIs.
   * **Matarial-UI** - the data you want to communicate, and what you want to convey about that data.
 
