@@ -36,7 +36,7 @@ The web app was deployed in **Netlify** and is avialable for use. The data that 
 
 <br>
 
-<img  style="box-shadow: 8px 5px 10px red;" width="450px" src="./public/img/Screen%20Shot%202020-11-30%20at%2022.36.27.png">
+<kbd><img  style="box-shadow: 8px 5px 10px black;" width="450px" src="./public/img/Screen%20Shot%202020-11-30%20at%2022.36.27.png"></kbd>
 
 <br>
 <br>
