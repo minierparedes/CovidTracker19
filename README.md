@@ -1,8 +1,10 @@
 
 
-[COVID TRACKER 19](https://hardcore-meninsky-aebb95.netlify.app) &emsp; &nbsp;
-[![Website](https://img.shields.io/badge/JM-minierparedes-black?style=for-the-badge)](https://codestackr.com)
+## [COVID TRACKER 19](https://hardcore-meninsky-aebb95.netlify.app) &emsp; &nbsp;
+<img src="https://img.shields.io/badge/deployment-passing-green">
+<img src="https://img.shields.io/badge/PRs-welcomed-green">
 
+<br>
 
 ## Description
 A web app that provides detailed information on local and global coronavirus, covid-19, cases with active, recoveries, and death rate for each country and the global total. 
