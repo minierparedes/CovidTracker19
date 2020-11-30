@@ -71,6 +71,7 @@ Feel free to send us feedback on [twitter](https://twitter.com/minierparedes)  o
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> 
 </p>
+
   * **React.js** - A JavaScript library for building user interfaces. **Declarative** with views and state management. **Component-based** Build encapsulated components that manage their own state, then compose them to make complex UIs.
   * **Matarial-UI** - the data you want to communicate, and what you want to convey about that data.
 
