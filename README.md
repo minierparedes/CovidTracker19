@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/JM-minierparedes-black?style=for-the-badge)](https://codestackr.com)
 
 
-### Description
+## Description
 A web app that provides detailed information on local and global coronavirus, covid-19, cases with active, recoveries, and death rate for each country and the global total. 
 <br>
 The Covid Tracker-19 collects and publishes the most complete data avialable. Covid tracker-19 charts, infected, recovered, and deaths are based on data collected by the John Hopkins University.
@@ -12,7 +12,7 @@ The Covid Tracker-19 collects and publishes the most complete data avialable. Co
 <br>
 
 * **Data visualization** depicts information in a graphical form in both line charts and bars.
-* **Selection of countries** from a drop down menu select from global or individual countries. Providing detail information on infections, recoveries, and deaths totals.
+* **Selection of countries** from a drop down menu select from global or individual countries. Providing detail information on infections, recoveries, and death totals.
   
 * **Responsive design** The design and development of the web app response to the user's platform, screen size, and device orientation.
   
@@ -21,10 +21,26 @@ The Covid Tracker-19 collects and publishes the most complete data avialable. Co
 ![covidtrackerApp](https://user-images.githubusercontent.com/65219445/89969563-ad0e8500-dc91-11ea-8a54-b27f887fdc3f.gif)
 
 
+<br>
 
-### Installation
+## Web App
+The web app was deployed in **Netlify** and is avialable for use. The data that is used by the charts in the web app is being provided by the **John Hopkins University** CSSE as a JSON API [JSON API](https://covid19.mathdro.id/api)
 
-### `npm build`
+
+<br>
+<br>
+
+## Site
+
+#### Landing page
+
+<br>
+
+<img  style="box-shadow: 8px 5px 10px black;" width="450px" src="./public/img/Screen%20Shot%202020-11-30%20at%2022.36.27.png">
+
+<br>
+<br>
+
 
 ```bash
 npm build
