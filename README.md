@@ -4,7 +4,7 @@
 <p float="left">
 <img src="https://img.shields.io/badge/deployment-passing-green">
 <img src="https://img.shields.io/badge/PRs-welcomed-green">
-<img src="https://img.shields.io/github/commit-activity/w/minierparedes/ovidtracker19">
+<img src="https://img.shields.io/github/commit-activity/w/minierparedes/covidtracker19">
 </p>
 <br>
 
