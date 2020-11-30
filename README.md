@@ -41,17 +41,15 @@ The web app was deployed in **Netlify** and is avialable for use. The data that 
 
 #### Types of charts
 
-<br>
-
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 
-<br>
 
 <kbd><img width="450px" src="./public/img/charts.png"></kbd>
 
 
 #### Mobile support
-
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+<br>
 The web app is responsive and designed and developed with a mobile first approach.
 
 <br>
@@ -61,33 +59,16 @@ The web app is responsive and designed and developed with a mobile first approac
 <kbd><img width="250px" src="./public/img/mobile2.png"></kbd>
 </p>
 
+## Feedback
+Feel free to send us feedback on Twitter . [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/minierparedes) or file an issue. Feature requests are always welcome. If you wish to contribute.
 
+## Built with
 
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> 
 
-
-
-```bash
-npm build
-```
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-
-
-### `npm start`
-
-**Runs the react-scripts start**
-
-```bash
-npm start
-```
-
-
-## Support
-
-https://github.com/minierparedes/cc13-soloproject2
+  * **React.js** - A JavaScript library for building user interfaces. **Declarative** with views and state management. **Component-based** Build encapsulated components that manage their own state, then compose them to make complex UIs.
+  * **Matarial-UI** - the data you want to communicate, and what you want to convey about that data.
 
 ### Roadmap
 
