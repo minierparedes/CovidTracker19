@@ -8,6 +8,7 @@
 </p>
 <br>
 
+
 ## Description
 A web app that provides detailed information on local and global coronavirus, covid-19, cases with active, recoveries, and death rate for each country and the global total. 
 <br>
@@ -30,12 +31,14 @@ The Covid Tracker-19 collects and publishes the most complete data avialable. Co
 ## Web App
 <img src="https://img.shields.io/badge/Netlify-deployed%20-%23430098.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
 
-The web app was deployed in **Netlify** and is avialable for use. The data that is used by the charts in the web app is being provided by the **John Hopkins University** CSSE as a JSON API [JSON API](https://covid19.mathdro.id/api)
+The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netlify.app) and is avialable for use. The data that is used by the charts in the web app is being provided by the **John Hopkins University** CSSE as a JSON API [JSON API](https://covid19.mathdro.id/api)
 
 
 <br>
 
 ## Site
+
+[COVID TRACKER 19](https://hardcore-meninsky-aebb95.netlify.app) 
 
 #### Landing page
 
