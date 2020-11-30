@@ -25,13 +25,12 @@ The Covid Tracker-19 collects and publishes the most complete data avialable. Co
 
 ## Web App
 <img src="https://img.shields.io/badge/Netlify-deployed%20-%23430098.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
-<br>
+
 <br>
 
 The web app was deployed in **Netlify** and is avialable for use. The data that is used by the charts in the web app is being provided by the **John Hopkins University** CSSE as a JSON API [JSON API](https://covid19.mathdro.id/api)
 
 
-<br>
 <br>
 
 ## Site
@@ -43,7 +42,6 @@ The web app was deployed in **Netlify** and is avialable for use. The data that 
 <kbd><img width="450px" src="./public/img/landing-page.png"></kbd>
 
 <br>
-<br>
 
 #### Types of charts
 
@@ -51,7 +49,6 @@ The web app was deployed in **Netlify** and is avialable for use. The data that 
 
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 
-<br>
 <br>
 
 <kbd><img width="450px" src="./public/img/charts.png"></kbd>
@@ -61,7 +58,6 @@ The web app was deployed in **Netlify** and is avialable for use. The data that 
 
 The web app is responsive and designed and developed with a mobile first approach.
 
-<br>
 <br>
 
 <p float="left">
