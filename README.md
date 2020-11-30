@@ -75,10 +75,12 @@ Feel free to send us feedback on Twitter . [<img height="32" width="32" src="htt
 Support for app will continue with future implemations.
 
 ### Author
+[![Website](https://img.shields.io/badge/developer-minierparedes-black?style=for-the-badge)](https://codestackr.com)
 
 Minierparedes
 
 ### License
+<img src="https://img.shields.io/badge/license-MIT-blue">
 
 For open source projects.
 
