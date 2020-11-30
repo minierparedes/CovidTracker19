@@ -11,6 +11,12 @@ The Covid Tracker-19 collects and publishes the most complete data avialable. Co
 <br>
 <br>
 
+* **Data visualization** depicts information in a graphical form in both line charts and bars.
+* **Selection of countries** from a drop down menu select from global or individual countries. Providing detail information on infections, recoveries, and deaths totals.
+  
+* **Responsive design** The design and development of the web app response to the user's platform, screen size, and device orientation.
+  
+  <br>
 
 ![covidtrackerApp](https://user-images.githubusercontent.com/65219445/89969563-ad0e8500-dc91-11ea-8a54-b27f887fdc3f.gif)
 
