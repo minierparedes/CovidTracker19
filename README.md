@@ -83,7 +83,7 @@ Feel free to send us feedback on [twitter](https://twitter.com/minierparedes)  o
 Support for app will continue with future implemations.
 
 ### Author
-[![Website](https://img.shields.io/badge/developer-minierparedes-black?style=for-the-badge)](https://codestackr.com)
+[![Website](https://img.shields.io/badge/developer-minierparedes-black?style=for-the-badge)](https://github.com/minierparedes)
 
 Minierparedes
 
