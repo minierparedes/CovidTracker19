@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/PRs-welcomed-green">
 <img src="https://img.shields.io/github/commits-since/minierparedes/covidtracker19/1.0.0/master">
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fhardcore-meninsky-aebb95.netlify.app">
-
-[![time tracker](https://wakatime.com/badge/github/minierparedes/cc13-Covid19Tracker.svg)](https://wakatime.com/badge/github/minierparedes/cc13-Covid19Tracker)
+<img src="https://wakatime.com/badge/github/minierparedes/cc13-Covid19Tracker.svg">
 
 </p>
 <br>
