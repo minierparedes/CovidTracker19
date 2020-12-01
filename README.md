@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/deployment-passing-green">
 <img src="https://img.shields.io/badge/PRs-welcomed-green">
 <img src="https://img.shields.io/github/commit-activity/w/minierparedes/CovidTracker19?logo=GitHub">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fhardcore-meninsky-aebb95.netlify.app">
 </p>
 <br>
 
