@@ -45,7 +45,7 @@ The web app was deployed in [**Netlify**](https://hardcore-meninsky-aebb95.netli
 
 #### Landing page
 
-<kbd><img width="450px" src="./public/img/landing-page.png"></kbd>
+![Landing page img](./public/img/landing-page.png){: .shadow}
 
 <br>
 
